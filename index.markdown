@@ -3,7 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Zhijie Xie
 ---
+
+PhD Candidate
+-------------
 
 <img src="figures/santamonica.jpg" style='float: right' height="220">
 
@@ -11,8 +15,6 @@ I received the B.E. degree in software engineering from Tongji University in 201
 
 Prior to HKUST, I had been working with [Yi Xing](https://xinglab.org/people/yi-xing/) on researching and developing high-performance alternative splicing analysis algorithms for large-scale RNA-Seq data.
 
-<br>
-<br>
 <br>
 <br>
 
