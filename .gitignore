@@ -3,3 +3,21 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+
+# Vim.
+*.swp
+*.swo
+
+# Bazel.
+bazel-*
+
+# numpy.
+*.npy
+
+# Images, Datum.
+*.png
+*.csv
+
+csv/
+
