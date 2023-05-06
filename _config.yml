@@ -21,7 +21,7 @@
 title: Zhijie's Homepage
 email: zhijie.xie@connect.ust.hk
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a second-year PhD candidate in Department of Electronic and Computer Engineering at Hong Kong University of Science and Technology.
+  I am Zhijie Xie, a second-year PhD candidate in Department of Electronic and Computer Engineering at Hong Kong University of Science and Technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -29,9 +29,12 @@ github_username:  ShiehShieh
 google_analytics: G-ZJ2CHFZT5M
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
