@@ -76,8 +76,17 @@ minima:
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/ShiehShieh" ,                         title: 'Github'}
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=XWtuNTAAAAAJ", title: 'Google Scholar'}
+    - platform: github
+      user_url: "https://github.com/ShiehShieh"
+      title: 'Github'
+    - platform: google_scholar
+      user_url: "https://scholar.google.com/citations?user=XWtuNTAAAAAJ"
+      title: 'Google Scholar'
+      # icon: 'ai ai-google-scholar'
+      # - platform: orcid-square
+      #   user_url: "https://orcid.org/0000-0002-2003-0472"
+      #   title: 'orcid'
+      #   icon: 'ai ai-orcid'
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
