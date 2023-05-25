@@ -1,15 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+author_profile: true
+classes: wide
 title: Zhijie Xie
 ---
 
 PhD Candidate
 -------------
 
+<!--
 <img src="figures/santamonica.jpg" style='float: right' height="220">
+-->
 
 I received the B.E. degree in software engineering from Tongji University in 2017. I am currently pursuing the Ph.D. degree in electronic and computer engineering at The Hong Kong University of Science and Technology (HKUST) with [Shenghui Song](https://eeshsong.home.ece.ust.hk/). My research interests include federated learning, reinforcement learning, and machine learning in wireless communication.
 
