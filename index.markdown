@@ -3,6 +3,8 @@ layout: home
 author_profile: true
 classes: wide
 title: Zhijie Xie
+header:
+  image: figures/tianmenshan.jpeg
 ---
 
 PhD Candidate
