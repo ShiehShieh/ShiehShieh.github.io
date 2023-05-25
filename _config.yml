@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Zhijie Xie"
   avatar           : 'figures/santamonica.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  location         : "Hong Kong"
+  location         : # "Hong Kong"
   email            : zhijie.xie@connect.ust.hk
   links:
     - label: "Website"
