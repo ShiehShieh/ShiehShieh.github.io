@@ -24,7 +24,7 @@ Prior to HKUST, I had been working with [Yi Xing](https://xinglab.org/people/yi-
 Federated Learning & Reinforcement Learning
 --------------------
 
-**Z. Xie** and S. Song. (2023). [Client Selection for Federated Policy Optimization with Environment Heterogeneity](https://arxiv.org/abs/2305.10978). ArXiv [Cs.LG]. Retrieved from http://arxiv.org/abs/2305.10978
+Xie, Z., & Song, S. H. (2023). [Client Selection for Federated Policy Optimization with Environment Heterogeneity](https://arxiv.org/abs/2305.10978). arXiv preprint arXiv:2305.10978.
 
 **Z. Xie** and S. Song, "[FedKL: Tackling Data Heterogeneity in Federated Reinforcement Learning by Penalizing KL Divergence](https://ieeexplore.ieee.org/document/10038492)," in ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 4, pp. 1227-1242, April 2023, doi: 10.1109/JSAC.2023.3242734.
 
