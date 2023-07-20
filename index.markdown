@@ -38,6 +38,6 @@ Wang Y\*, **Xie Z**\*, Kutschera E, Adams JI, Kadash-Edmondson KE, and Xing Y. (
 
 Demirdjian L, Xu Y, Bahrami-Samani E, Pan Y, Pan Z, Stein S, **Xie Z**, Park E, Wu YN, Xing Y. (2020) Detecting allele-specific alternative splicing from population-scale RNA-seq data. ***American Journal of Human Genetics***, 107:461-72.
 
-Phillips JW*, Pan Y*, Tsai BL, **Xie Z**, Demirdjian L, Xiao W, Yang HT, Zhang Y, Lin CH, Cheng D, Hu Q, Liu S, Black DL, Witte ON+, Xing Y.+ (2020) Pathway-guided analysis identifies Myc-dependent alternative pre-mRNA splicing in aggressive prostate cancers. ***PNAS***, 117(10):5269-79 (+joint corresponding authors; *joint first authors)
+Phillips JW\*, Pan Y\*, Tsai BL, **Xie Z**, Demirdjian L, Xiao W, Yang HT, Zhang Y, Lin CH, Cheng D, Hu Q, Liu S, Black DL, Witte ON+, Xing Y.+ (2020) Pathway-guided analysis identifies Myc-dependent alternative pre-mRNA splicing in aggressive prostate cancers. ***PNAS***, 117(10):5269-79 (+joint corresponding authors; *joint first authors)
 
-Zhang Z*, Pan Z*, Ying Y, **Xie Z**, Adhikari S, Phillips J, Carstens RP, Black DL, Wu Y, Xing Y. (2019) Deep learning-augmented RNA-seq analysis of transcript splicing. ***Nature Methods***, 16:307-10. (*joint first authors)
+Zhang Z\*, Pan Z\*, Ying Y, **Xie Z**, Adhikari S, Phillips J, Carstens RP, Black DL, Wu Y, Xing Y. (2019) Deep learning-augmented RNA-seq analysis of transcript splicing. ***Nature Methods***, 16:307-10. (*joint first authors)
