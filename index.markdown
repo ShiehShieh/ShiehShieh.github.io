@@ -34,7 +34,7 @@ G. Zhou, L. Zhao, G. Zheng, **Z. Xie**, S. Song and K. -C. Chen, "[Joint Multi-o
 Bioinformatics
 --------------
 
-Wang Y\*, **Xie Z**\*, Kutschera E, Adams JI, Kadash-Edmondson KE, and Xing Y. (2024) rMATS-turbo: an efficient and flexible computational tool for alternative splicing analysis of large-scale RNA-seq data. ***Nature Protocols***, in press. (*joint first authors)
+Wang Y\*, **Xie Z**\*, Kutschera E, Adams JI, Kadash-Edmondson KE, and Xing Y. (2024) [rMATS-turbo: an efficient and flexible computational tool for alternative splicing analysis of large-scale RNA-seq data](https://www.nature.com/articles/s41596-023-00944-2). ***Nature Protocols***, doi:10.1038/s41596-023-00944-2. (*joint first authors)
 
 Demirdjian L, Xu Y, Bahrami-Samani E, Pan Y, Pan Z, Stein S, **Xie Z**, Park E, Wu YN, Xing Y. (2020) Detecting allele-specific alternative splicing from population-scale RNA-seq data. ***American Journal of Human Genetics***, 107:461-72.
 
