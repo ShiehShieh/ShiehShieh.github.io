@@ -14,9 +14,9 @@ PhD Candidate
 <img src="figures/santamonica.jpg" style='float: right' height="220">
 -->
 
-I received the B.E. degree in software engineering from Tongji University in 2017. I am currently pursuing the Ph.D. degree in electronic and computer engineering at The Hong Kong University of Science and Technology (HKUST) with [Shenghui Song](https://eeshsong.home.ece.ust.hk/). My research interests include federated learning, reinforcement learning, and machine learning in wireless communication.
+I received the B.E. degree in software engineering from Tongji University in 2017. I am currently pursuing the Ph.D. degree in electronic and computer engineering at The Hong Kong University of Science and Technology (HKUST) with Prof. [Shenghui Song](https://eeshsong.home.ece.ust.hk/). My research interests include federated learning, reinforcement learning, and machine learning in wireless communication.
 
-Prior to HKUST, I had been working with [Yi Xing](https://xinglab.org/people/yi-xing/) on researching and developing high-performance alternative splicing analysis algorithms for large-scale RNA-Seq data.
+Prior to HKUST, I had been working with Prof. [Yi Xing](https://xinglab.org/people/yi-xing/) on researching and developing high-performance alternative splicing analysis algorithms for large-scale RNA-Seq data.
 
 <br>
 <br>
