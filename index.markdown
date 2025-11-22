@@ -26,7 +26,7 @@ Federated Learning & Reinforcement Learning
 
 **Xie, Z.** and Song, S. H. (2025). [The Actor-Critic Update Order Matters for PPO in Federated Reinforcement Learning](https://arxiv.org/abs/2506.01261). arXiv preprint arXiv:2506.01261.
 
-**Xie, Z.**, & Song, S. H. (2023). [Client Selection for Federated Policy Optimization with Environment Heterogeneity](https://arxiv.org/abs/2305.10978). arXiv preprint arXiv:2305.10978.
+**Xie, Z.**, & Song, S. H. (2023). [Client Selection for Federated Policy Optimization with Environment Heterogeneity](https://arxiv.org/abs/2305.10978). arXiv preprint arXiv:2305.10978. (Accepted for publication in Journal of Machine Learning Research)
 
 **Z. Xie** and S. Song, "[FedKL: Tackling Data Heterogeneity in Federated Reinforcement Learning by Penalizing KL Divergence](https://ieeexplore.ieee.org/document/10038492)," in ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 4, pp. 1227-1242, April 2023, doi: 10.1109/JSAC.2023.3242734.
 
