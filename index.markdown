@@ -38,7 +38,7 @@ G. Zhou, L. Zhao, G. Zheng, **Z. Xie**, S. Song and K. -C. Chen. [Joint multi-ob
 Wireless Communication
 ----------------------
 
-F. Xu, **Z. Xie**, S. Song et al. [Multi-antenna UAV assisted hybrid fso/rf data collection for IoT: Optimal design for fairness](https://ieeexplore.ieee.org/document/11008692), in ***IEEE Transactions on Aerospace and Electronic Systems***, doi: 10.1109/TAES.2025.3572070, 2025.
+F. Xu, **Z. Xie**, S. Song et al. [Multi-antenna UAV assisted hybrid FSO/RF data collection for IoT: Optimal design for fairness](https://ieeexplore.ieee.org/document/11008692), in ***IEEE Transactions on Aerospace and Electronic Systems***, doi: 10.1109/TAES.2025.3572070, 2025.
 
 
 Bioinformatics
