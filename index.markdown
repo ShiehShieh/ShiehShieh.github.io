@@ -7,7 +7,7 @@ header:
   image: figures/tianmenshan.jpeg
 ---
 
-PhD Candidate
+PhD (Conferral Date: 31st March)
 -------------
 
 <!--
@@ -16,7 +16,11 @@ PhD Candidate
 
 > I am actively looking for a PostDoc position starting from March 2026.
 
-I received the B.E. degree in software engineering from Tongji University in 2017. I am currently pursuing the Ph.D. degree in electronic and computer engineering at The Hong Kong University of Science and Technology (HKUST) with Prof. [Shenghui Song](https://eeshsong.home.ece.ust.hk/). My research interests include federated learning, reinforcement learning, and machine learning in wireless communication.
+I received the B.E. degree in software engineering from Tongji University in 2017. I am currently pursuing the Ph.D. degree in electronic and computer engineering at The Hong Kong University of Science and Technology (HKUST) with Prof. [Shenghui Song](https://eeshsong.home.ece.ust.hk/). My research interests include:
+
+- Federated Learning (FL), especially data heterogeneity, privacy concerns, communication efficiency, and convergence analysis.
+- Reinforcement Learning (RL), especially policy optimization, and RL theory.
+- The integration of RL and FL, i.e., Federated Reinforcement Learning (FRL). Focusing on the Weighted Value Problems (WVPs) and Environment Heterogeneity.
 
 Prior to HKUST, I had been working with Prof. [Yi Xing](https://xinglab.org/people/yi-xing/) on researching and developing high-performance alternative splicing analysis algorithms for large-scale RNA-Seq data.
 
@@ -26,7 +30,7 @@ Prior to HKUST, I had been working with Prof. [Yi Xing](https://xinglab.org/peop
 Federated Learning & Reinforcement Learning
 -------------------------------------------
 
-**Z. Xie** and S. Song, S. H. [The actor-critic update order matters for PPO in federated reinforcement learning,](https://arxiv.org/abs/2506.01261) arXiv preprint arXiv:2506.01261, 2025.
+**Z. Xie** and S. Song, S. H. [The Actor-Critic update order matters for PPO in federated reinforcement learning,](https://arxiv.org/abs/2506.01261) arXiv preprint arXiv:2506.01261, 2025.
 
 **Z. Xie** and S. Song, S. H. [Client selection for federated policy optimization with environment heterogeneity,](https://arxiv.org/abs/2305.10978) to appear ***Journal of Machine Learning Research***, 2025.
 
@@ -34,12 +38,10 @@ Federated Learning & Reinforcement Learning
 
 G. Zhou, L. Zhao, G. Zheng, **Z. Xie**, S. Song and K. -C. Chen. [Joint multi-objective optimization for radio access network slicing using multi-agent deep reinforcement learning](https://ieeexplore.ieee.org/document/10106015), in ***IEEE Transactions on Vehicular Technology***, doi: 10.1109/TVT.2023.3268671, 2023.
 
-
 Wireless Communication
 ----------------------
 
 F. Xu, **Z. Xie**, S. Song et al. [Multi-antenna UAV assisted hybrid FSO/RF data collection for IoT: Optimal design for fairness](https://ieeexplore.ieee.org/document/11008692), in ***IEEE Transactions on Aerospace and Electronic Systems***, doi: 10.1109/TAES.2025.3572070, 2025.
-
 
 Bioinformatics
 --------------
