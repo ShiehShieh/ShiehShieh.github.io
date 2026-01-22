@@ -30,11 +30,11 @@ Prior to HKUST, I had been working with Prof. [Yi Xing](https://xinglab.org/peop
 Federated Learning & Reinforcement Learning
 -------------------------------------------
 
-**Z. Xie** and S. Song, S. H. [The Actor-Critic update order matters for PPO in federated reinforcement learning,](https://arxiv.org/abs/2506.01261) arXiv preprint arXiv:2506.01261, 2025.
+**Z. Xie** and S. Song. [The Actor-Critic update order matters for PPO in federated reinforcement learning,](https://arxiv.org/abs/2506.01261) arXiv preprint arXiv:2506.01261, 2025.
 
-**Z. Xie** and S. Song, S. H. [Client selection for federated policy optimization with environment heterogeneity,](https://arxiv.org/abs/2305.10978) to appear ***Journal of Machine Learning Research***, 2025.
+**Z. Xie** and S. Song. [Client selection for federated policy optimization with environment heterogeneity,](https://arxiv.org/abs/2305.10978) to appear ***Journal of Machine Learning Research***, 2025.
 
-**Z. Xie** and S. Song, S. H. [FedKL: Tackling data heterogeneity in federated reinforcement learning by penalizing KL divergence](https://ieeexplore.ieee.org/document/10038492), in ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 4, pp. 1227-1242, April 2023, doi: 10.1109/JSAC.2023.3242734.
+**Z. Xie** and S. Song. [FedKL: Tackling data heterogeneity in federated reinforcement learning by penalizing KL divergence](https://ieeexplore.ieee.org/document/10038492), in ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 4, pp. 1227-1242, April 2023, doi: 10.1109/JSAC.2023.3242734.
 
 G. Zhou, L. Zhao, G. Zheng, **Z. Xie**, S. Song and K. -C. Chen. [Joint multi-objective optimization for radio access network slicing using multi-agent deep reinforcement learning](https://ieeexplore.ieee.org/document/10106015), in ***IEEE Transactions on Vehicular Technology***, doi: 10.1109/TVT.2023.3268671, 2023.
 
