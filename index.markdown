@@ -7,7 +7,7 @@ header:
   image: figures/tianmenshan.jpeg
 ---
 
-PhD (Conferral Date: 31st March)
+PhD (Conferral Date: 31st March, 2026)
 -------------
 
 <!--
@@ -19,7 +19,7 @@ PhD (Conferral Date: 31st March)
 I received the B.E. degree in software engineering from Tongji University in 2017. I am currently pursuing the Ph.D. degree in electronic and computer engineering at The Hong Kong University of Science and Technology (HKUST) with Prof. [Shenghui Song](https://eeshsong.home.ece.ust.hk/). My research interests include:
 
 - Federated Learning (FL), especially data heterogeneity, privacy concerns, communication efficiency, and convergence analysis.
-- Reinforcement Learning (RL), especially policy optimization, and RL theory.
+- Reinforcement Learning (RL), especially policy optimization and RL theory.
 - The integration of RL and FL, i.e., Federated Reinforcement Learning (FRL). Focusing on the Weighted Value Problems (WVPs) and Environment Heterogeneity.
 
 Prior to HKUST, I had been working with Prof. [Yi Xing](https://xinglab.org/people/yi-xing/) on researching and developing high-performance alternative splicing analysis algorithms for large-scale RNA-Seq data.
