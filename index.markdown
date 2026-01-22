@@ -16,7 +16,7 @@ PhD (Conferral Date: 31st March, 2026)
 
 > I am actively looking for a PostDoc position starting from March 2026.
 
-I received the B.E. degree in software engineering from Tongji University in 2017. I received the Ph.D. degree in Electronic and Computer Engineering (ECE) from The Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Shenghui Song](https://eeshsong.home.ece.ust.hk/). My research interests include:
+I received the Ph.D. degree in Electronic and Computer Engineering (ECE) from The Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Shenghui Song](https://eeshsong.home.ece.ust.hk/) in 2026. Prior to that, I received the B.E. degree in Software Engineering from Tongji University in 2017. My research interests include:
 
 - Federated Learning (FL), especially data heterogeneity, privacy concerns, communication efficiency, and convergence analysis.
 - Reinforcement Learning (RL), especially policy optimization and RL theory.
