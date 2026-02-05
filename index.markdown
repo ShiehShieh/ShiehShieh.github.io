@@ -20,7 +20,7 @@ I received the Ph.D. degree in Electronic and Computer Engineering (ECE) from Th
 
 - Federated Learning (FL), especially data heterogeneity, privacy concerns, communication efficiency, and convergence analysis.
 - Reinforcement Learning (RL), especially policy optimization and RL theory.
-- The integration of RL and FL, i.e., Federated Reinforcement Learning (FRL). Focusing on the Weighted Value Problems (WVPs) and Environment Heterogeneity. I am particularly intereseted in establishing the theoretical foundation of FRL.
+- Trustworthy and Distributed Reinforcement Learning, specifically Federated Reinforcement Learning (FRL). Focusing on the Weighted Value Problems (WVPs) and Environment Heterogeneity. I am particularly interested in establishing the theoretical foundation of FRL and delivering algorithms with rigorous mathematical guarantees.
 
 Prior to HKUST, I had been working with Prof. [Yi Xing](https://xinglab.org/people/yi-xing/) on researching and developing high-performance alternative splicing analysis algorithms for large-scale RNA-Seq data.
 
