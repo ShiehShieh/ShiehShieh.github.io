@@ -11,7 +11,7 @@ PhD (Conferral Date: 31st March, 2026)
 -------------
 
 <!--
-<img src="figures/me.jpg" style='float: right' height="220">
+<img src="figures/me.jpg" style='float: right' height="500">
 -->
 
 > I am actively looking for a PostDoc position starting from March 2026.
