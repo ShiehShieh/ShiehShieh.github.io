@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 classes: wide
-title: Zhijie Xie
+title: Zhijie XIE
 header:
   image: figures/tianmenshan.jpeg
 ---
