@@ -20,8 +20,8 @@ locale                   : "en-US"
 title                    : "Zhijie's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Zhijie Xie"
-description              : "I am Zhijie Xie, a second-year PhD candidate in Department of Electronic and Computer Engineering at Hong Kong University of Science and Technology."
+name                     : "Zhijie XIE"
+description              : "I am Zhijie XIE."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,8 +105,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhijie Xie"
-  avatar           : 'figures/santamonica.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Zhijie XIE"
+  avatar           : 'figures/me.jpg' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   location         : # "Hong Kong"
   email            : zhijie.xie@connect.ust.hk
   links:
