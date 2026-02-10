@@ -14,7 +14,7 @@ PhD (Conferral Date: 31st March, 2026)
 <img src="figures/me.jpg" style='float: right' height="500">
 -->
 
-> I am actively looking for a PostDoc position starting from March 2026.
+> I am actively looking for a postdoctoral position starting from March 2026.
 
 I received the Ph.D. in Electronic and Computer Engineering (ECE) from The Hong Kong University of Science and Technology (HKUST) in 2026 under the supervision of Prof. [Shenghui Song](https://eeshsong.home.ece.ust.hk/). Prior to that, I received the B.E. degree in Software Engineering from Tongji University in 2017. My research interests include:
 
