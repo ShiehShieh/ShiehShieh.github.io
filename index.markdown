@@ -7,7 +7,7 @@ header:
   image: figures/tianmenshan.jpeg
 ---
 
-PhD (Conferral Date: 31st March, 2026)
+PhD
 -------------
 
 <!--
