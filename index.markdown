@@ -56,3 +56,7 @@ Demirdjian L, Xu Y, Bahrami-Samani E, Pan Y, Pan Z, Stein S, **Xie Z**, Park E, 
 Phillips JW\*, Pan Y\*, Tsai BL, **Xie Z**, Demirdjian L, Xiao W, Yang HT, Zhang Y, Lin CH, Cheng D, Hu Q, Liu S, Black DL, Witte ON+, Xing Y.+. Pathway-guided analysis identifies Myc-dependent alternative pre-mRNA splicing in aggressive prostate cancers. ***PNAS***, 117(10):5269-79, 2020. (+joint corresponding authors; *joint first authors)
 
 Zhang Z\*, Pan Z\*, Ying Y, **Xie Z**, Adhikari S, Phillips J, Carstens RP, Black DL, Wu Y, Xing Y. Deep learning-augmented RNA-seq analysis of transcript splicing. ***Nature Methods***, 16:307-10, 2019. (*joint first authors)
+
+PhD Thesis
+-------------------------------------------
+**Zhijie Xie**. [Heterogeneity-Aware Theory and Algorithms for Federated Reinforcement Learning](https://doi.org/10.14711/thesis-hdl169584). PhD thesis, Hong Kong University of Science and Technology, 2026.
